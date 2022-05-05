@@ -5,3 +5,5 @@ This data comes from a Kaggle dataset, it includes a bunch of information for vi
 - 1st Visualization for the most liked and disliked category
 - 2nd Visualization for the most channels that has comments being removed
 - 3rd Visualization for the demographic distribution of number of Views in each State in US
+
+You can access these visualizations and git a full understanding for them through the attached pdf file above
